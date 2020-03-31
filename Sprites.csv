@@ -1,0 +1,17 @@
+﻿ID,Name,dir
+1,sqrW,./images/squareW.png
+2,sqrB,./images/squareB.png
+3,pawnW,./images/pawnW.png
+4,pawnB,./images/pawnB.png
+5,knightW,./images/knightW.png
+6,knightB,./images/knightB.png
+7,bishopW,./images/bishopW.png
+8,bishopB,./images/bishopB.png
+9,rookW,./images/rookW.png
+10,rookB,./images/rookB.png
+11,kingW,./images/kingW.png
+12,kingB,./images/kingB.png
+13,queenW,./images/queenW.png
+14,queenB,./images/queenB.png
+15,icon,./images/icon.png
+16,n/a,./images/missing.png
