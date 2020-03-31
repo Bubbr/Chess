@@ -7,6 +7,7 @@ A bug-filled chess game with messy code, made by me in a few days to learn pytho
 - Poder comer piezas.
 - Limitar movimientos dependiendo de la pieza.
 - Añadir efectos de sonido.
+- Traducir esto o ponerlo en varios idiomas.
 - Todo lo que vaya saliendo.
 
 ## Creditos
