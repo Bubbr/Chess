@@ -12,4 +12,4 @@ A bug-filled chess game with messy code, made by me in a few days to learn pytho
 
 ## Creditos
 - Arte sacada de [opengameart.org](https://opengameart.org/content/chess-pieces-and-a-board) bajo licencia [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.](https://creativecommons.org/publicdomain/zero/1.0/)
-- PyGame (link roto, pero basta con googlearlo)
+- [PyGame](https://www.pygame.org/news)
